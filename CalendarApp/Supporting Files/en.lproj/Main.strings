@@ -1,0 +1,126 @@
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "0e2-c2-RA5"; */
+"0e2-c2-RA5.text" = "Location";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5W8-Cq-tmd"; */
+"5W8-Cq-tmd.text" = "Label";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "5jq-Ye-fLS"; */
+"5jq-Ye-fLS.text" = "Description";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "7R2-Jk-kuW"; */
+"7R2-Jk-kuW.text" = "Time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9hW-RX-IgG"; */
+"9hW-RX-IgG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Eec-dS-m64"; */
+"Eec-dS-m64.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ExI-Kf-0Vr"; */
+"ExI-Kf-0Vr.text" = "Title";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "JHU-1n-yzH"; */
+"JHU-1n-yzH.text" = "Location";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "Mt2-ym-1Ui"; */
+"Mt2-ym-1Ui.text" = "Description";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OSQ-63-Qsh"; */
+"OSQ-63-Qsh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Return"; ObjectID = "OY6-YC-n0N"; */
+"OY6-YC-n0N.normalTitle" = "Return";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ObF-Gw-9wh"; */
+"ObF-Gw-9wh.text" = "Label";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "PI9-Ad-PDe"; */
+"PI9-Ad-PDe.text" = "Time";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UZg-U3-PzN"; */
+"UZg-U3-PzN.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "V3r-ov-thC"; */
+"V3r-ov-thC.text" = "Title";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "VBJ-PM-hIY"; */
+"VBJ-PM-hIY.text" = "Location";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VCF-XD-LbJ"; */
+"VCF-XD-LbJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VPe-q0-SXK"; */
+"VPe-q0-SXK.text" = "Label";
+
+/* Class = "UILabel"; text = "Events"; ObjectID = "Y5k-lY-n5n"; */
+"Y5k-lY-n5n.text" = "Events";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "apc-yb-XCf"; */
+"apc-yb-XCf.text" = "Label";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "azr-eH-s9J"; */
+"azr-eH-s9J.text" = "Location";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "cvp-yb-XVJ"; */
+"cvp-yb-XVJ.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "da8-Dc-osB"; */
+"da8-Dc-osB.text" = "Name:";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "dd6-nK-6dG"; */
+"dd6-nK-6dG.text" = "Description";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "eRh-og-6eC"; */
+"eRh-og-6eC.normalTitle" = "<";
+
+/* Class = "UILabel"; text = "Copy Right"; ObjectID = "gwQ-rD-M38"; */
+"gwQ-rD-M38.text" = "Copy Right";
+
+/* Class = "UILabel"; text = "Number of Launches"; ObjectID = "hkl-d5-Cdc"; */
+"hkl-d5-Cdc.text" = "Number of Launches";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "iFT-EG-uCJ"; */
+"iFT-EG-uCJ.text" = "Time";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "kAg-cz-41u"; */
+"kAg-cz-41u.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "nwP-Be-lCf"; */
+"nwP-Be-lCf.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oF4-Fi-5Hg"; */
+"oF4-Fi-5Hg.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "onM-9f-xDx"; */
+"onM-9f-xDx.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Event Name"; ObjectID = "orO-wr-dQb"; */
+"orO-wr-dQb.text" = "Event Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rAi-rl-hIa"; */
+"rAi-rl-hIa.text" = "Label";
+
+/* Class = "UILabel"; text = "Version: "; ObjectID = "rJY-sG-cFE"; */
+"rJY-sG-cFE.text" = "Version: ";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "sMM-YW-ds2"; */
+"sMM-YW-ds2.text" = "Time";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "u2G-Ge-YSs"; */
+"u2G-Ge-YSs.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vI7-Tf-Wi1"; */
+"vI7-Tf-Wi1.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vcJ-df-C0Q"; */
+"vcJ-df-C0Q.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "?"; ObjectID = "wUg-78-8KC"; */
+"wUg-78-8KC.title" = "?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xM4-7t-MOp"; */
+"xM4-7t-MOp.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zKz-cn-UJc"; */
+"zKz-cn-UJc.text" = "Label";

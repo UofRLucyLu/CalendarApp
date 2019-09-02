@@ -1,0 +1,61 @@
+/* 
+  Localizable.strings
+  CalendarApp
+
+  Created by apple on 11/28/18.
+  Copyright © 2018 apple. All rights reserved.
+*/
+
+// Monthes
+"str_jan"                             = "January";
+"str_feb"                             = "Febulary";
+"str_mar"                             = "March";
+"str_apr"                             = "April";
+"str_may"                             = "May";
+"str_jun"                             = "June";
+"str_jul"                             = "July";
+"str_aug"                             = "August";
+"str_sep"                             = "September";
+"str_oct"                             = "October";
+"str_nov"                             = "November";
+"str_dec"                             = "December";
+
+
+// Weekdays
+"str_mon"                             = "Mon";
+"str_tue"                             = "Tue";
+"str_wed"                             = "Wed";
+"str_thu"                             = "Thur";
+"str_fri"                             = "Fri";
+"str_sat"                             = "Sat";
+"str_sun"                             = "Sun";
+
+// Event Table View
+"str_events"                          = "Event";
+
+// Event Detail
+"str_title"                           = "Title";
+"str_loc"                             = "Location";
+"str_des"                             = "Description";
+"str_time"                            = "Time";
+"str_title2"                          = "title of the event";
+"str_loc2"                            = "location of the event";
+"str_des2"                            = "description";
+"str_update"                          = "Update";
+"str_add"                             = "Add";
+
+// About Detail
+"str_num"                             = "Number of Launches";
+"str_version"                         = "Version";
+"str_app"                             = "App Name";
+
+// Location Stuff
+"str_ok"                              = "OK";
+"str_CLNoService"                     = "No Location Services";
+"str_CLDeniedPerm"                    = "This app was denied permission.";
+"str_CLBlocked"                       = "This app is blocked by parental controls.";
+
+// Alert
+"str_deleteWarning"                   = "Are you sure you want to delete this item?";
+"str_delete"                          = "Delete";
+"str_cancel"                          = "Cancel";

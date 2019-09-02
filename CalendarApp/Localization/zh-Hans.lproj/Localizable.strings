@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  CalendarApp
+
+  Created by apple on 11/28/18.
+  Copyright © 2018 apple. All rights reserved.
+*/
+
+// Monthes
+"str_jan"                             = "一月";
+"str_feb"                             = "二月";
+"str_mar"                             = "三月";
+"str_apr"                             = "四月";
+"str_may"                             = "五月";
+"str_jun"                             = "六月";
+"str_jul"                             = "七月";
+"str_aug"                             = "八月";
+"str_sep"                             = "九月";
+"str_oct"                             = "十月";
+"str_nov"                             = "十一月";
+"str_dec"                             = "十二月";
+
+
+// Weekdays
+"str_mon"                             = "周一";
+"str_tue"                             = "周二";
+"str_wed"                             = "周三";
+"str_thu"                             = "周四";
+"str_fri"                             = "周五";
+"str_sat"                             = "周六";
+"str_sun"                             = "周日";
+
+// Event Table View
+"str_events"                          = "事件";
+
+// Event Detail
+"str_title"                           = "名称";
+"str_loc"                             = "地点";
+"str_des"                             = "详情";
+"str_time"                            = "时间";
+"str_title2"                          = "事件名称";
+"str_loc2"                            = "事件地点";
+"str_des2"                            = "事件详情";
+"str_update"                          = "更新";
+"str_add"                             = "添加";
+
+// About Detail
+"str_num"                             = "登陆次数";
+"str_version"                         = "版本";
+"str_app"                             = "软件名称";
+
+// Location Stuff
+"str_ok"                              = "完成";
+"str_CLNoService"                     = "无地点服务";
+"str_CLDeniedPerm"                    = "未获得访问地点权限";
+"str_CLBlocked"                       = "未获得访问地点批准";
